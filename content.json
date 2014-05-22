@@ -20,7 +20,14 @@
         "geboortemaand": 10,
         "geboortejaar": 2000,
         "arrondissement": null,
-        "datum_van_de_eerste_insulinetoediening": "2013-12-01T23:00:00.000Z"
+        "datum_van_de_eerste_insulinetoediening": "2013-12-01T23:00:00.000Z",
+        "address": {
+            "googleplace": "Chaussée de Waterloo 480, Ixelles, Belgium",
+            "number": "480",
+            "street": "Chaussée de Waterloo",
+            "city": "Ixelles",
+            "postalCode": "1050"
+        }
     },
     "datacollectie": {
         "algemeen": {
