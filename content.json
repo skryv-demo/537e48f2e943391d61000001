@@ -1,1 +1,78 @@
-{}
+{
+    "algemeen": {
+        "jaar_van_datacollectie": 2013,
+        "creatiedatum_van_klinische_file": "2014-05-21T22:00:00.000Z"
+    },
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "Man"
+        },
+        "etniciteit_vader": {
+            "selectedChoice": "Kaukasisch"
+        },
+        "etniciteit_moeder": {
+            "selectedChoice": "Andere",
+            "indien_andere,_specificeren": "Aziatisch"
+        },
+        "patient_niss": 12345678,
+        "naam": "Doe",
+        "voornaam": "John",
+        "geboortemaand": 10,
+        "geboortejaar": 2000,
+        "arrondissement": null,
+        "datum_van_de_eerste_insulinetoediening": "2013-12-01T23:00:00.000Z"
+    },
+    "datacollectie": {
+        "algemeen": {
+            "taalproblemen": {
+                "selectedChoices": {}
+            },
+            "puberteitprepuberteit": {
+                "selectedChoice": "Puberteit"
+            },
+            "insulineschema": {
+                "selectedChoice": "Insulinepomp"
+            },
+            "datum_van_de_meest_recente_consultatie": "2013-12-26T23:00:00.000Z",
+            "de_patient_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": false
+        },
+        "metingen": {
+            "lengte": {},
+            "gewicht": {
+                "gewicht_kg": 180
+            },
+            "systolische_bloeddruk": {
+                "systolische_bloeddruk_mmhg": 120
+            },
+            "diastolische_bloeddruk": {
+                "diastolische_bloeddruk_mmhg": 100
+            }
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {}
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreodie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
+        }
+    }
+}
