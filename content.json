@@ -27,7 +27,8 @@
             "street": "Chaussée de Waterloo",
             "city": "Ixelles",
             "postalCode": "1050"
-        }
+        },
+        "overleden": false
     },
     "datacollectie": {
         "algemeen": {
